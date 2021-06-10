@@ -1,0 +1,16 @@
+C:\Users\woute\Documents\Programming\School\BubbleSort\bin\Debug\net5.0\BubbleSort.exe
+C:\Users\woute\Documents\Programming\School\BubbleSort\bin\Debug\net5.0\BubbleSort.deps.json
+C:\Users\woute\Documents\Programming\School\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.json
+C:\Users\woute\Documents\Programming\School\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.dev.json
+C:\Users\woute\Documents\Programming\School\BubbleSort\bin\Debug\net5.0\BubbleSort.dll
+C:\Users\woute\Documents\Programming\School\BubbleSort\bin\Debug\net5.0\ref\BubbleSort.dll
+C:\Users\woute\Documents\Programming\School\BubbleSort\bin\Debug\net5.0\BubbleSort.pdb
+C:\Users\woute\Documents\Programming\School\BubbleSort\obj\Debug\net5.0\BubbleSort.csprojAssemblyReference.cache
+C:\Users\woute\Documents\Programming\School\BubbleSort\obj\Debug\net5.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woute\Documents\Programming\School\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\woute\Documents\Programming\School\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfo.cs
+C:\Users\woute\Documents\Programming\School\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\woute\Documents\Programming\School\BubbleSort\obj\Debug\net5.0\BubbleSort.dll
+C:\Users\woute\Documents\Programming\School\BubbleSort\obj\Debug\net5.0\ref\BubbleSort.dll
+C:\Users\woute\Documents\Programming\School\BubbleSort\obj\Debug\net5.0\BubbleSort.pdb
+C:\Users\woute\Documents\Programming\School\BubbleSort\obj\Debug\net5.0\BubbleSort.genruntimeconfig.cache
